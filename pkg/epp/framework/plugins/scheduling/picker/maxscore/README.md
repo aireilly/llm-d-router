@@ -1,3 +1,15 @@
+---
+description: Learn how the max-score-picker selects the highest-scoring endpoints, breaks score ties with round-robin rotation, and configures maxNumOfEndpoints.
+lastUpdated: 2026-10-22
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+title: Max Score Picker
+---
 # Max Score Picker
 
 **Type:** `max-score-picker`

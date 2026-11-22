@@ -1,3 +1,17 @@
+---
+description: 'Learn how the sidecar and coordinator handle each inference API method and path: serve it, pass it through unparsed, or reject it with a 405.'
+lastUpdated: 2026-11-17
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - coordinator
+  - sidecar
+  - routing
+  - inference-api
+  - disaggregation
+  - gateway
+title: Inference API Routing
+---
 # Inference API Routing
 
 This document lists, per HTTP method and path, how the sidecar and the

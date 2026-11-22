@@ -1,3 +1,14 @@
+---
+description: Learn about the coordinator's stateless step pipeline, how it routes encode, prefill, and decode phases through the gateway and EPP, and how to add a step plugin.
+lastUpdated: 2026-11-17
+owner: '@llm-d/router-maintainers'
+tags:
+  - coordinator
+  - plugin-framework-contracts
+  - reference
+  - lifecycle
+title: Coordinator Architecture
+---
 # Coordinator Architecture
 
 The coordinator is a Go service that accepts inference requests and drives them through

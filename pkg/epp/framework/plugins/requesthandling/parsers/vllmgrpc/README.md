@@ -1,3 +1,17 @@
+---
+description: Learn about the vllmgrpc-parser plugin, which parses H2C requests and responses in the vLLM gRPC API format to extract the model name, prompt, and token metadata.
+lastUpdated: 2026-05-03
+owner: '@zetxqx'
+tags:
+  - reference
+  - epp
+  - plugin-framework-contracts
+  - vllm
+  - grpc
+  - parsers
+  - request-handling
+title: vLLM gRPC Parser Plugin
+---
 # vLLM gRPC Parser Plugin
 
 **Type:** `vllmgrpc-parser`

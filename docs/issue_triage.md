@@ -1,3 +1,16 @@
+---
+description: Learn how to triage issues with `triage/*`, `kind/*`, and `area/*` labels, use comment commands, and meet the requirements for accepting an issue.
+lastUpdated: 2026-11-04
+owner: '@llm-d/router-maintainers'
+tags:
+  - github
+  - taxonomy
+  - scope-and-process
+  - maintainers
+  - reference
+  - lifecycle
+title: Issue Triage
+---
 # Issue Triage
 
 Every open issue carries either `needs-triage` or exactly one `triage/*` label. `.github/workflows/issue-triage.yaml` adds `needs-triage` to a new or reopened issue that has no `triage/*` label, and removes it when a `triage/*` label is applied.

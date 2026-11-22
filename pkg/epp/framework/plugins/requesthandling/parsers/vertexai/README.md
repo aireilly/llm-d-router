@@ -1,3 +1,17 @@
+---
+description: Learn how the Vertex AI parser plugin unwraps gRPC protobuf requests, delegates to the OpenAI parser, and extracts token usage metrics from responses.
+lastUpdated: 2026-09-22
+owner: '@zetxqx'
+tags:
+  - reference
+  - epp
+  - plugin-framework-contracts
+  - metrics
+  - vertexai
+  - grpc
+  - parser
+title: Vertex AI Parser Plugin
+---
 # Vertex AI Parser Plugin
 
 The Vertex AI Parser plugin (`vertexai-parser`) implements the `fwkrh.Parser` interface for the Vertex AI gRPC API. It enables the `llm-d-router` to parse and route incoming Vertex AI gRPC requests and extract metrics from their responses.

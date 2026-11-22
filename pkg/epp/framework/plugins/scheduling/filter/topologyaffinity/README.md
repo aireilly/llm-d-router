@@ -1,3 +1,17 @@
+---
+description: Learn how the topology-affinity-filter plugin keeps candidate endpoints co-located with a peer by host, rack, zone, or region, in single-EPP and coordinator setups, and when it fails open.
+lastUpdated: 2026-10-15
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - disaggregation
+  - coordinator
+  - attributes
+  - plugin-framework-contracts
+title: Topology Affinity Filter Plugin
+---
 # Topology Affinity Filter Plugin
 
 **Type:** `topology-affinity-filter`

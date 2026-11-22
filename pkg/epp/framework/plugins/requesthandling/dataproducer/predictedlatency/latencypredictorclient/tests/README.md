@@ -1,3 +1,16 @@
+---
+description: Learn how to build the latency predictor test client, warm up training buckets, and run single or swept QPS load tests against the prediction servers.
+lastUpdated: 2026-11-02
+owner: '@kaushikmitr'
+tags:
+  - latency-predictor
+  - load-testing
+  - testing
+  - epp
+  - kubernetes
+  - reference
+title: Latency Predictor Load Tests
+---
 # Latency Predictor Load Tests
 
 Load tests for the latency predictor sidecar system. These tests exercise the Go coalescer client against the prediction and training servers at various QPS levels.

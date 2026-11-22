@@ -1,3 +1,16 @@
+---
+description: Learn about the LatencyPredictionInfo attribute, its TTFT and TPOT prediction and SLO headroom fields, and the predicted-latency-producer plugin that populates it.
+lastUpdated: 2026-05-18
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - datalayer
+  - latency
+  - slo
+  - scheduling
+title: Latency Attributes
+---
 # Latency Attributes
 
 This package defines the data structures for latency predictions and performance tracking.

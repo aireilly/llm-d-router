@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the max-saturation-detector plugin to combine child saturation detectors, forward dispatch reservations, and export per-detector saturation metrics.
+lastUpdated: 2026-11-02
+owner: '@LukeAVanDrie'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+  - observability
+  - flow-control
+  - saturation-detection
+title: Max Saturation Detector Plugin
+---
 # Max Saturation Detector Plugin
 
 **Type:** `max-saturation-detector`

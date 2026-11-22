@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the file-discovery plugin to load EPP endpoints from a YAML or JSON file, with optional fsnotify reload, for deployments without Kubernetes.
+lastUpdated: 2026-11-04
+owner: '@llm-d/router-maintainers'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - configuration-helm-and-compatibility
+  - endpoint-discovery
+  - datalayer
+  - lifecycle
+title: File Discovery Plugin
+---
 # File Discovery Plugin
 
 **Type:** `file-discovery`

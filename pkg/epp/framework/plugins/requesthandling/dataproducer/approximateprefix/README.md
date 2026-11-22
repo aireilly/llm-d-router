@@ -1,3 +1,17 @@
+---
+description: Learn how the approximate prefix cache producer hashes prompt tokens into blocks, writes per-endpoint prefix match data, and when it runs in request handling.
+lastUpdated: 2026-11-16
+owner: '@liu-cong'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - configuration-helm-and-compatibility
+  - lifecycle
+  - prefix-cache
+  - epp
+  - data-producer
+title: Approximate Prefix Cache Producer Plugin
+---
 # Approximate Prefix Cache Producer Plugin
 
 **Type:** `approx-prefix-cache-producer`

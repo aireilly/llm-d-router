@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the probabilistic-admitter plugin to shed sheddable requests by cluster saturation while always admitting critical traffic.
+lastUpdated: 2026-11-02
+owner: '@zetxqx'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - configuration-helm-and-compatibility
+  - admitter
+  - load-shedding
+  - saturation
+title: Probabilistic Admitter (`probabilistic-admitter`)
+---
 # Probabilistic Admitter (`probabilistic-admitter`)
 
 Probabilistically sheds sheddable requests under load while always admitting critical requests.

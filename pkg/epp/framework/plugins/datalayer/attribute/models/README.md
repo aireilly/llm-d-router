@@ -1,3 +1,15 @@
+---
+description: Learn about the ModelDataCollection attribute, its key, ModelData fields from the /v1/models API, and the plugins that produce and consume it.
+lastUpdated: 2026-10-13
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - datalayer
+  - models
+  - attributes
+title: Models Attributes
+---
 # Models Attributes
 
 This package defines the data structures for models served by an endpoint, as reported by the model server's `/v1/models` API.

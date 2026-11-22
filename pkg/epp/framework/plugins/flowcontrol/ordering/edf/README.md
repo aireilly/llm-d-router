@@ -1,3 +1,17 @@
+---
+description: Learn about the Earliest Deadline First (EDF) flow control ordering policy, how it computes request deadlines, its queue requirements, configuration, and trade-offs.
+lastUpdated: 2026-05-03
+owner: '@LukeAVanDrie'
+tags:
+  - flow-control
+  - ordering-policy
+  - edf
+  - plugin-framework-contracts
+  - scheduling
+  - slo
+  - reference
+title: Earliest Deadline First (EDF) Ordering Policy
+---
 # Earliest Deadline First (EDF) Ordering Policy
 
 **Type:** `edf-ordering-policy`

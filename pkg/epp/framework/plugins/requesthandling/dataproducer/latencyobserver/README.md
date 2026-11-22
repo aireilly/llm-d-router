@@ -1,3 +1,16 @@
+---
+description: Learn how the latency observer producer measures TTFT from request traffic and publishes percentile anchor points for the latency-observation scorer.
+lastUpdated: 2026-11-18
+owner: '@zetxqx'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - observability
+  - latency
+  - scheduling
+  - data-layer
+title: Latency Observer Producer
+---
 # Latency Observer Producer
 
 **Type:** `latency-observer-producer-hub`

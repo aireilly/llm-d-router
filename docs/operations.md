@@ -1,3 +1,17 @@
+---
+description: Learn how to size CPU and memory for the Endpoint Picker (EPP) and Envoy Proxy containers in the llm-d Router, and how to run them in high availability (HA) mode.
+lastUpdated: 2026-11-12
+owner: '@llm-d/router-maintainers'
+tags:
+  - configuration-helm-and-compatibility
+  - reference
+  - observability
+  - sizing
+  - high-availability
+  - epp
+  - envoy
+title: llm-d Router Container Sizing Guide
+---
 # llm-d Router Container Sizing Guide
 
 This guide provides resource sizing recommendations and high availability (HA) operational guidance for both the Endpoint Picker (EPP) and the Envoy Proxy containers in the llm-d Router. Sizing recommendations are based on empirical benchmark results under various agentic and high-throughput workloads.

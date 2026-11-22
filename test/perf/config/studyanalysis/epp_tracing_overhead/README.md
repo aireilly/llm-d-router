@@ -1,3 +1,16 @@
+---
+description: Learn how to reproduce the EPP tracing overhead study, including software versions, deployments, the tracing configuration matrix, GuideLLM workloads, and pprof collection.
+lastUpdated: 2026-10-07
+owner: '@llm-d/router-maintainers'
+tags:
+  - epp
+  - observability
+  - tracing
+  - performance
+  - benchmarking
+  - reference
+title: Reproducing the EPP tracing overhead study
+---
 # Reproducing the EPP tracing overhead study
 
 This directory contains the deployment definitions, native GuideLLM commands,

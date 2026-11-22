@@ -1,3 +1,16 @@
+---
+description: Learn how the token-load-scorer plugin scores endpoints by estimated in-flight tokens, and how to configure the queueThresholdTokens normalization threshold.
+lastUpdated: 2026-05-18
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - saturation
+  - attributes
+  - configuration-helm-and-compatibility
+title: Token Load Scorer Plugin
+---
 # Token Load Scorer Plugin
 
 **Type:** `token-load-scorer`

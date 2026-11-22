@@ -1,3 +1,16 @@
+---
+description: Learn about the default openai-parser plugin, which OpenAI-compatible endpoints it parses, and how the global priority propagation switch affects request bodies.
+lastUpdated: 2026-09-17
+owner: '@zetxqx'
+tags:
+  - reference
+  - epp
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+  - openai
+  - parsers
+title: OpenAI Parser Plugin
+---
 # OpenAI Parser Plugin
 
 **Type:** `openai-parser`

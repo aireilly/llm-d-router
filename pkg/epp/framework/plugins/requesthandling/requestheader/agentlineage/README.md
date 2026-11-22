@@ -1,3 +1,17 @@
+---
+description: Learn how the agent-lineage plugin derives a request's root session ID from lineage headers so a whole sub-agent tree shares one flow-control fairness queue.
+lastUpdated: 2026-11-06
+owner: '@zetxqx'
+tags:
+  - reference
+  - epp
+  - flow-control
+  - fairness
+  - agents
+  - attributes
+  - data-producer
+title: Agent Lineage
+---
 # Agent Lineage
 
 **Type:** `agent-lineage`

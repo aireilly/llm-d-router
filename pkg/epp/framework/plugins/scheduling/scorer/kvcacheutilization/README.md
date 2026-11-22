@@ -1,3 +1,18 @@
+---
+description: Learn how the kv-cache-utilization-scorer ranks endpoints by free KV-cache capacity, how to configure it, and how its multi-cluster variant gets pool metrics.
+lastUpdated: 2026-10-30
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - kv-cache
+  - epp
+  - metrics
+  - configuration-helm-and-compatibility
+  - attributes
+  - datalayer
+title: KV Cache Utilization Scorer Plugin
+---
 # KV Cache Utilization Scorer Plugin
 
 **Type:** `kv-cache-utilization-scorer`

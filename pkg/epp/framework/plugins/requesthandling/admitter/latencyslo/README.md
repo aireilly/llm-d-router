@@ -1,3 +1,16 @@
+---
+description: Learn how the latency-slo-admitter plugin rejects sheddable requests with HTTP 429 when no endpoint can meet latency SLOs, and how to configure it.
+lastUpdated: 2026-11-18
+owner: '@kaushikmitr'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - admission
+  - latency-slo
+  - flow-control
+  - configuration-helm-and-compatibility
+title: Latency SLO Admitter (`latency-slo-admitter`)
+---
 # Latency SLO Admitter (`latency-slo-admitter`)
 
 **Type:** `latency-slo-admitter`

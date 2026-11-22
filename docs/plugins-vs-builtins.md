@@ -1,3 +1,15 @@
+---
+description: Learn about the difference between plugins and builtins in the llm-d Router framework, including how plugins are registered, configured, and swapped.
+lastUpdated: 2026-11-02
+owner: '@llm-d/router-maintainers'
+tags:
+  - plugin-framework-contracts
+  - taxonomy
+  - configuration-helm-and-compatibility
+  - reference
+  - authoring
+title: 'Framework Developer Guide: Plugins vs Builtins'
+---
 # Framework Developer Guide: Plugins vs Builtins
 
 ## Purpose

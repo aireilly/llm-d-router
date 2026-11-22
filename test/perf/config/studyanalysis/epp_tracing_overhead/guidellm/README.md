@@ -1,3 +1,13 @@
+---
+description: Learn how to run the GuideLLM load scenarios that measure EPP tracing overhead, including each scenario's token sizes, request rates, and concurrency levels.
+lastUpdated: 2026-10-07
+owner: '@llm-d/router-maintainers'
+tags:
+  - epp
+  - observability
+  - reference
+title: GuideLLM workloads
+---
 # GuideLLM workloads
 
 `run.sh` uses the GuideLLM 0.7 `run` CLI directly. Set `TARGET` to the inference

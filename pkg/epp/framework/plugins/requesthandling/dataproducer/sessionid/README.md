@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the session-id-producer plugin to extract a session ID from a request header or cookie for affinity-aware scorers and filters.
+lastUpdated: 2026-11-02
+owner: '@zetxqx'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - configuration-helm-and-compatibility
+  - session-affinity
+  - data-producer
+  - request-handling
+title: Session ID Producer Plugin
+---
 # Session ID Producer Plugin
 
 **Type:** `session-id-producer`

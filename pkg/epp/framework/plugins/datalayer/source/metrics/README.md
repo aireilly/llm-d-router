@@ -1,3 +1,18 @@
+---
+description: Learn how to configure the metrics data source plugin that scrapes Prometheus metrics from model servers, including TLS, mTLS, scrape intervals, and family filtering.
+lastUpdated: 2026-11-12
+owner: '@llm-d/router-maintainers'
+tags:
+  - observability
+  - configuration-helm-and-compatibility
+  - plugin-framework-contracts
+  - security-and-trust-boundaries
+  - reference
+  - datalayer
+  - metrics
+  - prometheus
+title: Metrics Data Source
+---
 # Metrics Data Source
 
 **Type:** `metrics-data-source`

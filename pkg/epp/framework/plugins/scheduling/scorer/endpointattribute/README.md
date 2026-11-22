@@ -1,3 +1,17 @@
+---
+description: Learn how to configure the endpoint attribute scorer to rank endpoints by a numeric metric using adaptive or fixed range linear normalization.
+lastUpdated: 2026-10-30
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - attributes
+  - metrics
+  - kv-cache
+  - configuration-helm-and-compatibility
+title: Endpoint Attribute Scorer Plugin
+---
 # Endpoint Attribute Scorer Plugin
 
 **Type:** `endpoint-attribute-scorer`

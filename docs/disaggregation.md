@@ -1,3 +1,17 @@
+---
+description: Learn about the llm-d Router architecture and request lifecycle for disaggregated encode, prefill, and decode serving across P/D, E/PD, and E/P/D topologies.
+lastUpdated: 2026-11-17
+owner: '@llm-d/router-maintainers'
+tags:
+  - disaggregation
+  - architecture
+  - prefill-decode
+  - multimodal
+  - sidecar
+  - plugin-framework-contracts
+  - lifecycle
+title: Disaggregated Inference Serving in llm-d
+---
 # Disaggregated Inference Serving in llm-d
 
 ## Overview

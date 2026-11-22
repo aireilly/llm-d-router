@@ -1,3 +1,15 @@
+---
+description: Learn about the Kustomize overlays that deploy vLLM for each disaggregation scenario in KIND dev clusters and e2e tests, and which components each one selects.
+lastUpdated: 2026-11-10
+owner: '@llm-d/router-maintainers'
+tags:
+  - kubernetes
+  - disaggregation
+  - configuration-helm-and-compatibility
+  - kv-cache
+  - reference
+title: Development Environment Overlays
+---
 # Development Environment Overlays
 
 Kustomize overlays for deploying vLLM inference in different disaggregation scenarios.

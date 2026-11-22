@@ -1,3 +1,17 @@
+---
+description: Learn how to configure the topology-stamp-handler plugin to forward a prefill endpoint's topology to the decode request in coordinator deployments.
+lastUpdated: 2026-11-18
+owner: '@zetxqx'
+tags:
+  - reference
+  - epp
+  - coordinator
+  - disaggregation
+  - attributes
+  - scheduling
+  - configuration-helm-and-compatibility
+title: Topology Stamp Handler Plugin
+---
 # Topology Stamp Handler Plugin
 
 **Type:** `topology-stamp-handler`

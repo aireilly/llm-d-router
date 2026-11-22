@@ -1,3 +1,17 @@
+---
+description: Learn how the models-responder plugin answers GET /v1/models from EPP by aggregating endpoint model lists, and how it filters inference candidates by base model or LoRA adapter.
+lastUpdated: 2026-11-02
+owner: '@zetxqx'
+tags:
+  - reference
+  - epp
+  - models
+  - datalayer
+  - attributes
+  - scheduling
+  - plugin-framework-contracts
+title: Models Responder
+---
 # Models Responder
 
 **Type:** `models-responder`

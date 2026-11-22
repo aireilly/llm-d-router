@@ -1,3 +1,15 @@
+---
+description: Learn about the random-picker scheduling plugin, which selects endpoints uniformly at random and ignores scorer output, and how to set maxNumOfEndpoints.
+lastUpdated: 2026-05-03
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+title: Random Picker
+---
 # Random Picker
 
 **Type:** `random-picker`

@@ -1,3 +1,18 @@
+---
+description: Learn which SGLang gRPC Generate requests the sglanggrpc-parser claims, how it extracts cache keys, multimodal hashes, priority, and token usage at the protobuf wire level.
+lastUpdated: 2026-11-05
+owner: '@zetxqx'
+tags:
+  - reference
+  - epp
+  - plugin-framework-contracts
+  - prefix-cache
+  - multimodal
+  - kv-cache
+  - sglang
+  - grpc
+title: SGLang gRPC Parser
+---
 # SGLang gRPC Parser
 
 `sglanggrpc-parser` parses requests and responses for SGLang's native gRPC service (`sglang.api.v1.SglangService`).

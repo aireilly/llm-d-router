@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the context-length-aware scorer to route requests by token count using pod range labels, with optional filtering and P2P cache subtraction.
+lastUpdated: 2026-11-06
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - plugin-framework-contracts
+  - kubernetes
+  - prefix-cache
+title: Context Length Aware Scorer
+---
 # Context Length Aware Scorer
 
 **Type:** `context-length-aware`

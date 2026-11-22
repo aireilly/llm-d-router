@@ -1,3 +1,17 @@
+---
+description: Learn how the mm-embeddings-cache-producer plugin tracks per-pod encoder caches and attaches multimodal cache match data so scorers can route to pods with cached media.
+lastUpdated: 2026-11-02
+owner: '@zetxqx'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - multimodal
+  - encoder-cache
+  - data-producer
+  - scheduling
+  - configuration-helm-and-compatibility
+title: Multimodal Embeddings Cache Producer Plugin
+---
 # Multimodal Embeddings Cache Producer Plugin
 
 **Type:** `mm-embeddings-cache-producer`

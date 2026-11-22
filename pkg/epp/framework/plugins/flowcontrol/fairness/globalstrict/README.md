@@ -1,3 +1,15 @@
+---
+description: Learn about the Global Strict fairness policy, which merges flows in a priority band into one queue ordered by the ordering policy, and when to use it.
+lastUpdated: 2026-05-03
+owner: '@LukeAVanDrie'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - flow-control
+  - fairness
+  - configuration-helm-and-compatibility
+title: Global Strict Fairness Policy
+---
 # Global Strict Fairness Policy
 
 **Type:** `global-strict-fairness-policy`

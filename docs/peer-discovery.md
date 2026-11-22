@@ -1,3 +1,17 @@
+---
+description: 'Learn about EPP peer discovery: the PeerDiscovery, PeerNotifier, and PeerStore interfaces, the k8s-peer-discovery plugin, its configuration, and how to write a plugin.'
+lastUpdated: 2026-11-18
+owner: '@llm-d/router-maintainers'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - peer-discovery
+  - datalayer
+  - epp
+  - configuration-helm-and-compatibility
+  - active-active
+title: Peer Discovery
+---
 # Peer Discovery
 
 ## Table of Contents

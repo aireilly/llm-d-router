@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the session affinity scorer for sticky routing using the encoded endpoint header or server-side session ID strategies.
+lastUpdated: 2026-11-12
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - plugin-framework-contracts
+  - session-affinity
+  - scorer
+title: Session Affinity Scorer
+---
 # Session Affinity Scorer
 
 **Type:** `session-affinity-scorer`

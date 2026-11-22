@@ -1,3 +1,17 @@
+---
+description: Learn about the latency-reporter EPP plugin, which records request outcome, TTFT, and TPOT metrics labeled by priority, prompt-length bucket, and prefill/decode path.
+lastUpdated: 2026-11-18
+owner: '@zetxqx'
+tags:
+  - epp
+  - metrics
+  - observability
+  - slo
+  - disaggregation
+  - reference
+  - plugin-framework-contracts
+title: Latency Reporter
+---
 # Latency Reporter
 
 **Type:** `latency-reporter`

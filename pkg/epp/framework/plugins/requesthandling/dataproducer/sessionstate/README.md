@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the session-state-producer plugin and read the per-request session state it publishes for flow-control and scheduling plugins.
+lastUpdated: 2026-11-06
+owner: '@zetxqx'
+tags:
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+  - reference
+  - lifecycle
+  - session-state
+  - flow-control
+title: Session State Producer
+---
 # Session State Producer
 
 The `session-state-producer` tracks history for identities published by the

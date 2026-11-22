@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the endpoint-attribute-filter plugin to filter candidate endpoints by a numeric attribute using threshold, range, topK, or percentile algorithms.
+lastUpdated: 2026-11-17
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - attributes
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+title: Endpoint Attribute Filter Plugin
+---
 # Endpoint Attribute Filter Plugin
 
 **Type:** `endpoint-attribute-filter`

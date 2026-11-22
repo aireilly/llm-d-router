@@ -1,3 +1,17 @@
+---
+description: Learn how to configure the forward-prompt-token-ids plugin so vLLM model servers reuse router-rendered prompt token IDs instead of tokenizing each prompt again.
+lastUpdated: 2026-11-09
+owner: '@zetxqx'
+tags:
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+  - security-and-trust-boundaries
+  - reference
+  - tokenization
+  - vllm
+  - disaggregated-inference
+title: Forward Prompt Token IDs Plugin
+---
 # Forward Prompt Token IDs Plugin
 
 **Type:** `forward-prompt-token-ids`

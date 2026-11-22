@@ -1,3 +1,17 @@
+---
+description: Learn how the KV-cache indexer computes block keys from tokens, matches them against the block index, and scores pods by longest shared prefix for cache-aware routing.
+lastUpdated: 2026-11-11
+owner: '@vMaroon'
+tags:
+  - kv-cache
+  - prefix-cache
+  - scheduling
+  - epp
+  - data-producer
+  - multimodal
+  - reference
+title: KV-Cache Indexer
+---
 # KV-Cache Indexer
 
 Scores model-serving pods by KV-cache locality: given a request's tokens, it

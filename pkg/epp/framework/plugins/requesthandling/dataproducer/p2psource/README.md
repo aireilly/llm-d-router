@@ -1,3 +1,16 @@
+---
+description: Learn how the P2P source producer plugin picks a peer with the most cached prompt prefix and writes it to the request body and headers for vLLM P2P KV transfer.
+lastUpdated: 2026-11-10
+owner: '@nilig'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - configuration-helm-and-compatibility
+  - kv-cache
+  - prefix-cache
+  - disaggregated-inference
+title: P2P Source Producer Plugin
+---
 # P2P Source Producer Plugin
 
 **Type:** `p2p-source-producer`

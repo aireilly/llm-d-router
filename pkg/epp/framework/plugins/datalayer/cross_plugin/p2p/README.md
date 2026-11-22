@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the p2p-syncer plugin to share endpoint state directly between EPP replicas over gRPC, including peer discovery, TTL, and refresh settings.
+lastUpdated: 2026-11-18
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+  - cross-replica-sync
+  - peer-discovery
+  - datalayer
+title: Peer-to-Peer Syncer
+---
 # Peer-to-Peer Syncer
 
 **Type:** `p2p-syncer`

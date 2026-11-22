@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the Redis syncer plugin to share endpoint state and request coordination values across EPP replicas, including TTLs and publisher timing.
+lastUpdated: 2026-11-12
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+  - redis
+  - cross-replica
+  - datalayer
+title: Redis Syncer
+---
 # Redis Syncer
 
 **Type:** `redis-syncer`

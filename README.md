@@ -1,3 +1,14 @@
+---
+description: Learn about the llm-d Router, its Endpoint Picker (EPP), routing features, deployment modes, and how it relates to the Gateway API Inference Extension.
+lastUpdated: 2026-11-02
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - project-direction
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+title: llm-d Router
+---
 [![Go Report Card](https://goreportcard.com/badge/github.com/llm-d/llm-d-router)](https://goreportcard.com/report/github.com/llm-d/llm-d-router)
 [![Go Reference](https://pkg.go.dev/badge/github.com/llm-d/llm-d-router.svg)](https://pkg.go.dev/github.com/llm-d/llm-d-router)
 [![License](https://img.shields.io/github/license/llm-d/llm-d-router)](./LICENSE)

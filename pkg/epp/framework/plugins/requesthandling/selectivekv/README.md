@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the Alpha selective KV policy plugin to control external KV loading and offloading per request, including vLLM version requirements.
+lastUpdated: 2026-11-17
+owner: '@zetxqx'
+tags:
+  - epp
+  - kv-cache
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+  - reference
+  - saturation
+title: Selective KV Policy
+---
 # Selective KV Policy
 
 **Type:** `selective-kv-policy`

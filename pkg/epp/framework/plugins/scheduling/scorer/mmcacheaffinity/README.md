@@ -1,3 +1,17 @@
+---
+description: Learn how the mm-embeddings-cache-scorer plugin scores endpoints by multimodal embeddings cache reuse, and how to configure it with its producer.
+lastUpdated: 2026-09-27
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - multimodal
+  - epp
+  - data-producer
+  - attributes
+  - configuration-helm-and-compatibility
+title: Multimodal Embeddings Cache Scorer Plugin
+---
 # Multimodal Embeddings Cache Scorer Plugin
 
 **Type:** `mm-embeddings-cache-scorer`

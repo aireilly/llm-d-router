@@ -1,3 +1,16 @@
+---
+description: Learn about the measured CPU, latency, and throughput cost of EPP tracing at 1%, 10%, and 100% sampling, and why 10% is the recommended ratio.
+lastUpdated: 2026-10-07
+owner: '@llm-d/router-maintainers'
+tags:
+  - epp
+  - observability
+  - tracing
+  - performance
+  - benchmark
+  - configuration-helm-and-compatibility
+title: EPP tracing overhead analysis
+---
 # EPP tracing overhead analysis
 
 ## Decision and conclusions

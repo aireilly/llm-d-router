@@ -1,3 +1,16 @@
+---
+description: Learn how the async-broker step connects the coordinator to the llm-d-async broker, including request modes, header contract, tenant quota, and priority stamping.
+lastUpdated: 2026-11-02
+owner: '@llm-d/router-maintainers'
+tags:
+  - coordinator
+  - reference
+  - configuration-helm-and-compatibility
+  - async-broker
+  - queueing
+  - quota
+title: Async Broker Step
+---
 # Async Broker Step
 
 The async-broker step bridges the coordinator to the [llm-d-async](https://github.com/llm-d/llm-d-async) broker, giving standard OpenAI clients access to request-level queueing through the gateway they already use. Clients opt in per request with a mode header, and requests without the header pass through the step untouched.

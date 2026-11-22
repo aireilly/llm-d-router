@@ -1,3 +1,14 @@
+---
+description: Learn about user-facing changes in each llm-d Router release, including new features, fixes, deprecations, removed metrics, and configuration migrations.
+lastUpdated: 2026-10-18
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - lifecycle
+  - configuration-helm-and-compatibility
+  - observability
+  - coordinator
+---
 RELEASE v1.0.0 2026-10-16
 2026-09-19 https://github.com/llm-d/llm-d-router/pull/2929 Precise prefix cache routing now properly matches requests that target LoRA adapters from vLLM
 2026-09-20 https://github.com/llm-d/llm-d-router/pull/2940 Fix the default EPP configuration path used by make env-dev-kubernetes and report missing or unreadable configuration files before deployment.

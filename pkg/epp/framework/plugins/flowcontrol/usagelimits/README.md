@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the static usage limit policy, which sets a fixed admission ceiling on pool capacity for Flow Controller requests across all priorities.
+lastUpdated: 2026-07-10
+owner: '@LukeAVanDrie'
+tags:
+  - flow-control
+  - usage-limits
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+  - admission-control
+  - reference
+title: Static Usage Limit Policy Plugin
+---
 # Static Usage Limit Policy Plugin
 
 **Type:** `static-usage-limit-policy`

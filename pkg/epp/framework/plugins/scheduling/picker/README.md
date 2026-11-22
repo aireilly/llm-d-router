@@ -1,3 +1,14 @@
+---
+description: Learn about scheduling pickers, which select the final endpoints for a request after filtering and scoring, and how the maxNumOfEndpoints parameter works.
+lastUpdated: 2026-04-09
+owner: '@llm-d/router-maintainers'
+tags:
+  - scheduling
+  - epp
+  - plugin-framework-contracts
+  - reference
+title: Scheduling Pickers
+---
 # Scheduling Pickers
 
 Scheduling Pickers represent the final phase of the scheduling cycle in the Gateway API Inference Extension. After candidate endpoints have been filtered and scored by preceding plugins, the Picker is responsible for selecting the final subset of endpoints (typically just one) to receive the request.

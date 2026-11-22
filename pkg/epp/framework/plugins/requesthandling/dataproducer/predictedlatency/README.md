@@ -1,3 +1,16 @@
+---
+description: Learn about the predicted-latency-producer plugin, which trains XGBoost models through a sidecar, predicts per-endpoint TTFT and TPOT, computes SLO headroom, and its configuration parameters.
+lastUpdated: 2026-11-12
+owner: '@kaushikmitr'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - latency-prediction
+  - slo
+  - disaggregated-serving
+  - configuration-helm-and-compatibility
+title: Predicted Latency Producer (`predicted-latency-producer`)
+---
 # Predicted Latency Producer (`predicted-latency-producer`)
 
 **Type:** `predicted-latency-producer`

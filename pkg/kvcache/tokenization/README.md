@@ -1,3 +1,15 @@
+---
+description: Learn about the shared tokenization types, including multimodal hash and placeholder metadata and the chat request data model used by the tokenizer and prefix-cache scorers.
+lastUpdated: 2026-09-05
+owner: '@vMaroon'
+tags:
+  - reference
+  - kv-cache
+  - prefix-cache
+  - multimodal
+  - data-producer
+title: Tokenization Types
+---
 # Tokenization Types
 
 Shared types for tokenized-prompt handling used by the tokenizer plugin and the

@@ -1,3 +1,17 @@
+---
+description: Learn how the program-aware fairness policy schedules per-program flow queues using aggregated metrics, composed tenant and session flow IDs, and the las and turn-priority strategies.
+lastUpdated: 2026-11-18
+owner: '@LukeAVanDrie'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - configuration-helm-and-compatibility
+  - flow-control
+  - fairness
+  - scheduling
+  - multi-tenancy
+title: Program-Aware Fairness Policy
+---
 # Program-Aware Fairness Policy
 
 **Type:** `program-aware-fairness`

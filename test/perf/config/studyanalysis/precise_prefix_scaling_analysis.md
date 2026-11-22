@@ -1,3 +1,16 @@
+---
+description: Learn about EPP standalone latency, CPU, and memory scaling with precise-prefix caching across 1 to 3 replicas, compared to the optimized-baseline configuration.
+lastUpdated: 2026-07-24
+owner: '@llm-d/router-maintainers'
+tags:
+  - epp
+  - prefix-cache
+  - kv-cache
+  - metrics
+  - scheduling
+  - kubernetes
+title: EPP Standalone Precise Prefix Cache Scaling Analysis
+---
 # EPP Standalone Precise Prefix Cache Scaling Analysis
 
 This report evaluates the performance, latency, and resource utilization of the **Endpoint Picker (EPP)** standalone router using the `precise-prefix` cache configuration under horizontal replication (1, 2, and 3 EPP replicas), and compares them to the `optimized-baseline` configuration.

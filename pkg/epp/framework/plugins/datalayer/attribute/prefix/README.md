@@ -1,3 +1,16 @@
+---
+description: Learn about the PrefixCacheMatchInfo attribute, its cache-hit fields and per-tier block counts, and which plugins produce it for prefix-affinity scheduling scorers.
+lastUpdated: 2026-09-16
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - datalayer
+  - prefix-cache
+  - scheduling
+  - attributes
+title: Prefix Cache Attributes
+---
 # Prefix Cache Attributes
 
 This package defines the data structures for tracking prefix cache hits and status on endpoints.

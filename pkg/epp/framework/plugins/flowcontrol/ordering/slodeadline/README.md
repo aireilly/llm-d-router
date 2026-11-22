@@ -1,3 +1,17 @@
+---
+description: Learn how the SLO deadline ordering policy dispatches flow control requests by deadline, computed as the received time plus the TTFT target from the x-llm-d-slo-ttft-ms header.
+lastUpdated: 2026-11-10
+owner: '@LukeAVanDrie'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - configuration-helm-and-compatibility
+  - flow-control
+  - ordering-policy
+  - slo
+  - ttft
+title: SLO Deadline Ordering Policy
+---
 # SLO Deadline Ordering Policy
 
 **Type:** `slo-deadline-ordering-policy`

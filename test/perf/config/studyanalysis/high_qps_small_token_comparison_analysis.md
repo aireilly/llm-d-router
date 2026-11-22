@@ -1,3 +1,16 @@
+---
+description: Learn about EPP CPU, memory, and scheduling latency for random, passthrough-parser, and prefix-cache router configurations at 10 to 500 QPS with small token payloads.
+lastUpdated: 2026-07-24
+owner: '@llm-d/router-maintainers'
+tags:
+  - epp
+  - scheduling
+  - prefix-cache
+  - metrics
+  - saturation
+  - reference
+title: 'Comparative Analysis: High QPS Scaling with Small Tokens (200 Input / 100 Output)'
+---
 # Comparative Analysis: High QPS Scaling with Small Tokens (200 Input / 100 Output)
 
 This report evaluates the scaling behavior and performance characteristics of three router configurations across increasing request rates (**10, 100, 200, and 500 QPS**) for small token payloads (`input_tokens_size = 200`, `output_len = 100`) across 10 simulator replicas:

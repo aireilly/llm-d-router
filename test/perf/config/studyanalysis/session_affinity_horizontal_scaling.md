@@ -1,3 +1,16 @@
+---
+description: Learn about EPP active-active horizontal scaling across 1 to 3 replicas, comparing session-affinity-filter and load-aware-session-affinity latency and CPU on multi-turn chat.
+lastUpdated: 2026-09-09
+owner: '@llm-d/router-maintainers'
+tags:
+  - epp
+  - scheduling
+  - kubernetes
+  - saturation
+  - metrics
+  - reference
+title: 'Horizontal Active-Active Scaling Evaluation: Session Affinity & Load-Aware Routing'
+---
 # Horizontal Active-Active Scaling Evaluation: Session Affinity & Load-Aware Routing
 
 This report evaluates **horizontal active-active scaling** of the Endpoint Picker (EPP) router across **1, 2, and 3 replicas** when handling multi-turn conversational chat workloads.

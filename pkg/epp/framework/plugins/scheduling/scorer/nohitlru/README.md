@@ -1,3 +1,16 @@
+---
+description: Learn about the no-hit-lru-scorer plugin, which spreads cold requests across pods by LRU order, and how to configure it alongside a prefix cache scorer.
+lastUpdated: 2026-11-02
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - prefix-cache
+  - kv-cache
+  - configuration-helm-and-compatibility
+title: No-Hit LRU Scorer
+---
 # No-Hit LRU Scorer
 
 **Type:** `no-hit-lru-scorer`

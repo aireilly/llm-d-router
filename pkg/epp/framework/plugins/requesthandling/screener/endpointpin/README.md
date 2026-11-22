@@ -1,3 +1,16 @@
+---
+description: Learn how the endpoint-pin-screener plugin restricts a request to the single pod named in the x-llm-d-pin-host-port header, and why it returns 503 without fallback.
+lastUpdated: 2026-11-02
+owner: '@zetxqx'
+tags:
+  - reference
+  - epp
+  - scheduling
+  - disaggregation
+  - plugin-framework-contracts
+  - error-handling-and-boundaries
+title: Endpoint Pin Screener
+---
 # Endpoint Pin Screener
 
 **Type:** `endpoint-pin-screener`

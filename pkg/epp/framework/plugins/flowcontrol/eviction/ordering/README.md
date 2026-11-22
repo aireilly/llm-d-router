@@ -1,3 +1,16 @@
+---
+description: Learn about the eviction-priority-then-time-ordering plugin, which evicts the lowest-priority queued request first and breaks ties by evicting the most recently dispatched one.
+lastUpdated: 2026-05-03
+owner: '@LukeAVanDrie'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - flow-control
+  - eviction
+  - ordering
+  - kv-cache
+title: Eviction Priority-Then-Time Ordering Plugin
+---
 # Eviction Priority-Then-Time Ordering Plugin
 
 **Type:** `eviction-priority-then-time-ordering`

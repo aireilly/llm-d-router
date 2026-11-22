@@ -1,3 +1,17 @@
+---
+description: Learn how the soft reflective ceiling usage limit policy gates lower-priority dispatch as pool saturation rises, and when to choose it over static or holdback policies.
+lastUpdated: 2026-07-22
+owner: '@LukeAVanDrie'
+tags:
+  - flow-control
+  - usage-limits
+  - saturation
+  - priority
+  - dispatch
+  - plugin-framework-contracts
+  - reference
+title: Soft Reflective Ceiling Usage Limit Policy
+---
 # Soft Reflective Ceiling Usage Limit Policy
 
 **Type:** `soft-reflective-ceiling-policy`

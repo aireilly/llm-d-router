@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the Alpha label-producer plugin to publish Pod labels as EPP endpoint attributes for scorers and filters to consume.
+lastUpdated: 2026-09-17
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - security-and-trust-boundaries
+  - configuration-helm-and-compatibility
+  - datalayer
+  - label-producer
+title: Label Producer
+---
 # Label Producer
 
 **Type:** `label-producer`

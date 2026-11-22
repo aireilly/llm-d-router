@@ -1,3 +1,16 @@
+---
+description: Learn about the request-header-copy-handler plugin, which copies configured request headers onto the response so a coordinator can read values that EPP plugins set.
+lastUpdated: 2026-11-03
+owner: '@zetxqx'
+tags:
+  - reference
+  - epp
+  - coordinator
+  - disaggregation
+  - plugin-framework-contracts
+  - security-and-trust-boundaries
+title: Request Header Copy Handler Plugin
+---
 # Request Header Copy Handler Plugin
 
 **Type:** `request-header-copy-handler`

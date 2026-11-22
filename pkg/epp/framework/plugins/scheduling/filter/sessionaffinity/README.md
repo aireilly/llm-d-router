@@ -1,3 +1,15 @@
+---
+description: Learn how to configure the session affinity filter to pin session requests to one pod using encoded endpoint headers or server-side session ID bindings.
+lastUpdated: 2026-11-12
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+title: Session Affinity Filter
+---
 # Session Affinity Filter
 
 **Type:** `session-affinity-filter`

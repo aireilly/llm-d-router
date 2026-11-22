@@ -1,3 +1,17 @@
+---
+description: Learn about HPA v2 scale-up and scale-down behavior of the llm-d router in EPP sidecar and standalone proxy service modes under a multi-stage inference-perf workload on GKE.
+lastUpdated: 2026-10-08
+owner: '@llm-d/router-maintainers'
+tags:
+  - kubernetes
+  - epp
+  - configuration-helm-and-compatibility
+  - saturation
+  - metrics
+  - autoscaling
+  - performance
+title: Horizontal Pod Autoscaling (HPA v2) Scale-Up and Scale-Down Verification
+---
 # Horizontal Pod Autoscaling (HPA v2) Scale-Up and Scale-Down Verification
 
 This report evaluates Horizontal Pod Autoscaling (`autoscaling/v2`) of the `llm-d-router` in both EPP sidecar mode (`router.epp.autoscaling`) and standalone proxy service mode (`router.proxy.mode: service`, `router.proxy.autoscaling`) across a multi-stage `inference-perf` workload on GKE Autopilot (`llm-d-ap-usc1-router-perf`, `e2` machine family).

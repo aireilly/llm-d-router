@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the endpoint attribute weight scorer to prefer endpoints by string attributes such as region or GPU model using static weights.
+lastUpdated: 2026-11-02
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - attributes
+  - data-producer
+  - configuration-helm-and-compatibility
+title: Endpoint Attribute Weight Scorer
+---
 # Endpoint Attribute Weight Scorer
 
 **Type:** `endpoint-attribute-weight-scorer`

@@ -1,3 +1,17 @@
+---
+description: Learn how the EPP discovers inference endpoints, including Kubernetes pod readiness, the EndpointDiscovery plugin interface, and running EPP with file discovery without Kubernetes.
+lastUpdated: 2026-11-19
+owner: '@llm-d/router-maintainers'
+tags:
+  - endpoint-discovery
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+  - epp
+  - kubernetes
+  - file-discovery
+  - reference
+title: Endpoint Discovery
+---
 # Endpoint Discovery
 
 ## Table of Contents

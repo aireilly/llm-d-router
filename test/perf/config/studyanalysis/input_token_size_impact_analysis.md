@@ -1,3 +1,16 @@
+---
+description: Learn how EPP and Envoy proxy CPU, memory, and scheduling latency scale with input token sizes from 1,000 to 1,000,000 tokens at 10 QPS.
+lastUpdated: 2026-07-24
+owner: '@llm-d/router-maintainers'
+tags:
+  - epp
+  - prefix-cache
+  - metrics
+  - saturation
+  - observability
+  - reference
+title: Impact of Input Token Size on EPP and Envoy-Proxy Resource Usage & Latency (Verified 10 QPS)
+---
 # Impact of Input Token Size on EPP and Envoy-Proxy Resource Usage & Latency (Verified 10 QPS)
 
 This report evaluates the performance impact of varying input token sizes across **10 discrete context lengths** (ranging from **1,000 to 1,000,000 tokens**) at a verified fixed request rate of **10 QPS** with **10 simulator replicas**.

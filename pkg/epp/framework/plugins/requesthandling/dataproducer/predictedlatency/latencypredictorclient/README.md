@@ -1,3 +1,16 @@
+---
+description: 'Learn about the Go client for the llm-d latency predictor service: bulk TTFT and TPOT predictions, training sample flushing, model snapshot caching, and configuration.'
+lastUpdated: 2026-11-02
+owner: '@kaushikmitr'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+  - latency-prediction
+  - scheduling
+  - training
+title: latencypredictorclient
+---
 # latencypredictorclient
 
 Go client for the [llm-d-latency-predictor](https://github.com/llm-d/llm-d-latency-predictor)

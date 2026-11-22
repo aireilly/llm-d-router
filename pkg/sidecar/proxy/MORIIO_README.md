@@ -1,3 +1,17 @@
+---
+description: Learn how to enable and configure AMD MoRI-IO WRITE-mode and Wide-EP disaggregation in the llm-d sidecar, including serial and parallel dispatch and DP-rank routing.
+lastUpdated: 2026-10-05
+owner: '@roytman'
+tags:
+  - disaggregation
+  - kv-cache
+  - configuration-helm-and-compatibility
+  - reference
+  - moriio
+  - wide-ep
+  - sidecar
+title: MoRI-IO WRITE-mode and Wide-EP Feature
+---
 # MoRI-IO WRITE-mode and Wide-EP Feature
 
 > **Status: ENABLED**

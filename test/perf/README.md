@@ -1,3 +1,17 @@
+---
+description: Learn how to run the EPP performance benchmarking suite on a GKE cluster to measure CPU, memory, and routing latency, and track performance trends across runs.
+lastUpdated: 2026-11-02
+owner: '@llm-d/router-maintainers'
+tags:
+  - epp
+  - metrics
+  - observability
+  - kubernetes
+  - configuration-helm-and-compatibility
+  - performance
+  - benchmarking
+title: EPP Performance Benchmarking Suite
+---
 # EPP Performance Benchmarking Suite
 
 This directory contains the performance testing pipeline for the Endpoint Picker (EPP) of the `llm-d-router`. The pipeline is used to deploy the router in standalone mode, run stress tests using `inference-perf`, and capture metrics such as CPU/Memory utilization and routing latency.

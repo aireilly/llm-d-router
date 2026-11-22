@@ -1,3 +1,16 @@
+---
+description: Learn about the Topology endpoint attribute, its hostname, rack, zone, and region fields, and the plugins that produce and consume it for topology-aware routing.
+lastUpdated: 2026-10-15
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - coordinator
+  - topology
+  - datalayer
+  - scheduling
+title: Topology Attributes
+---
 # Topology Attributes
 
 This package defines the data structures for endpoint topology information,

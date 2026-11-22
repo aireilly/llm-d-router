@@ -1,3 +1,16 @@
+---
+description: 'Learn about the token-producer plugin: how it tokenizes prompts, picks the estimate or vLLM backend, skips requests that already carry token IDs, and where it runs.'
+lastUpdated: 2026-11-18
+owner: '@vMaroon'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - configuration-helm-and-compatibility
+  - tokenizer
+  - data-producer
+  - multimodal
+title: Token Producer Plugin
+---
 # Token Producer Plugin
 
 **Type:** `token-producer`

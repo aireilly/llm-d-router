@@ -1,3 +1,17 @@
+---
+description: Learn how the prefix cache scorer weighs match ratio and match length to score endpoints by cached prefix, and how to configure its parameters.
+lastUpdated: 2026-10-30
+owner: '@liu-cong'
+tags:
+  - reference
+  - scheduling
+  - prefix-cache
+  - kv-cache
+  - epp
+  - configuration-helm-and-compatibility
+  - attributes
+title: Prefix Cache Scorer Plugin
+---
 # Prefix Cache Scorer Plugin
 
 **Type:** `prefix-cache-scorer`

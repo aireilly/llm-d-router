@@ -1,3 +1,16 @@
+---
+description: Learn how the queue-scorer plugin scores endpoints by waiting-queue depth, how to configure it, and how the multicluster variant gets pool metrics.
+lastUpdated: 2026-10-30
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - metrics
+  - configuration-helm-and-compatibility
+  - plugin-framework-contracts
+title: Queue Depth Scorer Plugin
+---
 # Queue Depth Scorer Plugin
 
 **Type:** `queue-scorer`

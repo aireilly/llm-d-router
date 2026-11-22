@@ -1,0 +1,4 @@
+# Changelog fragments, not documentation.
+release-notes.d/
+# Maintainer review notes, not documentation.
+docs/review/

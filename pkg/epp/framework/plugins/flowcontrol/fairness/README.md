@@ -1,3 +1,16 @@
+---
+description: Learn about flow control fairness policies, the Flyweight state pattern, and the round-robin, global-strict, and weighted-fair-share implementations.
+lastUpdated: 2026-10-29
+owner: '@LukeAVanDrie'
+tags:
+  - flow-control
+  - fairness
+  - plugin-framework-contracts
+  - reference
+  - epp
+  - scheduling
+title: Fairness Policies
+---
 # Fairness Policies
 
 Fairness policies determine which active flow within a Priority Band is selected for the next dispatch opportunity. They manage contention between tenants or models sharing the same priority level.

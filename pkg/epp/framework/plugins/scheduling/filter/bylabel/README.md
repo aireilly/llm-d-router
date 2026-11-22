@@ -1,3 +1,16 @@
+---
+description: Learn how to configure label-based filter plugins that keep or drop candidate pods by Kubernetes label selector or by `llm-d.ai/role` for disaggregated inference.
+lastUpdated: 2026-09-15
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - disaggregation
+  - kubernetes
+  - configuration-helm-and-compatibility
+title: Label-Based Filter Plugins
+---
 # Label-Based Filter Plugins
 
 **Interfaces**: `scheduling.Filter`

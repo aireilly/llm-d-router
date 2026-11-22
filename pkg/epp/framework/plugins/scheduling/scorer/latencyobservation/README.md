@@ -1,3 +1,17 @@
+---
+description: Learn how the latency observation scorer predicts time-to-first-token from observed latency curves and in-flight load to rank peer endpoints in EPP hub deployments.
+lastUpdated: 2026-11-02
+owner: '@llm-d/router-maintainers'
+tags:
+  - epp
+  - scheduling
+  - plugin-framework-contracts
+  - data-producer
+  - datalayer
+  - configuration-helm-and-compatibility
+  - reference
+title: Latency Observation Scorer
+---
 # Latency Observation Scorer
 
 **Type:** `latency-observation-scorer-hub`

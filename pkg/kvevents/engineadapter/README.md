@@ -1,3 +1,16 @@
+---
+description: Learn how engine adapters decode vLLM and SGLang KV-cache events into canonical block events, and how to register an adapter for a new engine.
+lastUpdated: 2026-11-18
+owner: '@vMaroon'
+tags:
+  - kv-cache
+  - reference
+  - plugin-framework-contracts
+  - data-layer
+  - prefix-cache
+  - configuration-helm-and-compatibility
+title: Engine Adapters
+---
 # Engine Adapters
 
 Decodes the KV-cache event messages that model-serving engines publish into the

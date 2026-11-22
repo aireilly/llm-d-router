@@ -1,3 +1,16 @@
+---
+description: Learn how the in-flight load producer tracks per-endpoint request and token counts, applies prefix cache discounts, and releases tokens across the request lifecycle.
+lastUpdated: 2026-11-12
+owner: '@zetxqx'
+tags:
+  - plugin-framework-contracts
+  - lifecycle
+  - reference
+  - scheduling
+  - load-tracking
+  - prefix-cache
+title: In-Flight Load Producer Plugin
+---
 # In-Flight Load Producer Plugin
 
 **Type:** `inflight-load-producer`

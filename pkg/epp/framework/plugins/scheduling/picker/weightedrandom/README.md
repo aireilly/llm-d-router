@@ -1,3 +1,14 @@
+---
+description: Learn how the weighted-random-picker selects endpoints with score-proportional weights, temperature, and exploration budget, and how to configure it.
+lastUpdated: 2026-11-15
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - plugin-framework-contracts
+title: Weighted Random Picker
+---
 # Weighted Random Picker
 
 **Type:** `weighted-random-picker`

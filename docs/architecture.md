@@ -1,3 +1,17 @@
+---
+description: 'Learn about the llm-d Router architecture: filters, scorers, the data layer, routing flow, plugin configuration, metric scraping, and disaggregated E/P/D serving.'
+lastUpdated: 2026-11-08
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+  - scheduling
+  - disaggregation
+  - data-layer
+  - inferencepool
+title: llm-d Router Architecture
+---
 # llm-d Router Architecture
 
 ## Table of Contents

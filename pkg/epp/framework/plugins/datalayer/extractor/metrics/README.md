@@ -1,3 +1,16 @@
+---
+description: Learn how the Core Metrics Extractor maps vLLM, SGLang, and Triton metrics to endpoint attributes such as queue size, KV cache usage, and LoRA adapters.
+lastUpdated: 2026-11-17
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - observability
+  - metrics
+  - datalayer
+  - configuration-helm-and-compatibility
+title: Core Metrics Extractor
+---
 # Core Metrics Extractor
 
 **Type:** `core-metrics-extractor`

@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the anthropic-parser plugin to parse Anthropic Messages API and Token Counting API requests and track token usage in the EPP.
+lastUpdated: 2026-10-08
+owner: '@zetxqx'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - anthropic
+  - parsers
+  - request-handling
+  - token-usage
+title: Anthropic Parser Plugin
+---
 # Anthropic Parser Plugin
 
 **Type:** `anthropic-parser`

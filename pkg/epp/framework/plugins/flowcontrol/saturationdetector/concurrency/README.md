@@ -1,3 +1,16 @@
+---
+description: Learn about the concurrency detector plugin, which computes pool saturation from in-flight requests or tokens and filters overloaded endpoints during scheduling.
+lastUpdated: 2026-11-12
+owner: '@LukeAVanDrie'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - flow-control
+  - saturation-detection
+  - scheduling
+  - configuration-helm-and-compatibility
+title: Concurrency Detector Plugin
+---
 # Concurrency Detector Plugin
 
 **Type:** `concurrency-detector`

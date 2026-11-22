@@ -1,3 +1,14 @@
+---
+description: Learn how to manually deploy a 1P1D NIXL connector sample for the sidecar, send requests through the decode sidecar, and check the decoder logs.
+lastUpdated: 2026-10-29
+owner: '@llm-d/router-maintainers'
+tags:
+  - disaggregation
+  - kubernetes
+  - kv-cache
+  - reference
+title: Testing
+---
 # Testing
 
 Automated P/D coverage of the sidecar lives in `test/e2e` ("Running a PD configuration with nixlv2 connector and metrics validation") and `pkg/sidecar/proxy`. This directory holds manifests and steps for manual deployment.

@@ -1,3 +1,17 @@
+---
+description: Learn how the endpoint health filter excludes failing endpoints using poll and response health signals, and how to tune its thresholds and ejection backoff.
+lastUpdated: 2026-11-10
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - datalayer
+  - failure-classes
+  - error-handling-and-boundaries
+  - configuration-helm-and-compatibility
+title: Endpoint Health Filter Plugin
+---
 # Endpoint Health Filter Plugin
 
 **Type:** `endpoint-health-filter`

@@ -1,3 +1,15 @@
+---
+description: Learn how to write, register, and configure a custom filter plugin for llm-d-router, using a label-based endpoint filter as a worked example.
+lastUpdated: 2026-09-22
+owner: '@llm-d/router-maintainers'
+tags:
+  - plugin-framework-contracts
+  - authoring
+  - filter
+  - scheduling
+  - tutorial
+title: Extending llm-d-router with a custom filter
+---
 # Extending llm-d-router with a custom filter
 
 ## Goal

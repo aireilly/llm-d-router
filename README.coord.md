@@ -1,3 +1,14 @@
+---
+description: Learn how to build, configure, run, and test the LLM-D Coordinator, which orchestrates Encode, Prefill, and Decode stages across disaggregated vLLM worker pools.
+lastUpdated: 2026-11-10
+owner: '@llm-d/router-maintainers'
+tags:
+  - coordinator
+  - reference
+  - configuration-helm-and-compatibility
+  - lifecycle
+title: LLM-D Coordinator
+---
 # LLM-D Coordinator
 
 A Go service that orchestrates multi-phase LLM inference pipelines (Encode/Prefill/Decode) across specialized worker pools. It exposes OpenAI-compatible APIs and routes requests through an Inference Gateway to disaggregated vLLM workers.

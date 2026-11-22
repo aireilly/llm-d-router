@@ -1,3 +1,15 @@
+---
+description: Learn how to configure TLS for the EPP, P/D sidecar, and coordinator listeners, including serving flags, cipher suites, client CA, and certificate reload.
+lastUpdated: 2026-11-16
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - security-and-trust-boundaries
+  - configuration-helm-and-compatibility
+  - coordinator
+  - tls
+title: TLS
+---
 # TLS
 
 The EPP, the P/D sidecar and the coordinator each terminate TLS on their own listener:

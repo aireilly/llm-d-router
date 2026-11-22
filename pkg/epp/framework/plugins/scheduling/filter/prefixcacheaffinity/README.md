@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the prefix-cache-affinity-filter to steer requests toward endpoints with prefix cache hits, and how it avoids the hot-spotting trade-off of prefix-cache-scorer.
+lastUpdated: 2026-11-11
+owner: '@kaushikmitr'
+tags:
+  - reference
+  - scheduling
+  - prefix-cache
+  - kv-cache
+  - epp
+  - plugin-framework-contracts
+title: Prefix Cache Affinity Filter (`prefix-cache-affinity-filter`)
+---
 # Prefix Cache Affinity Filter (`prefix-cache-affinity-filter`)
 
 **Type:** `prefix-cache-affinity-filter`

@@ -1,3 +1,17 @@
+---
+description: Learn about the in-tree EPP plugins, their Alpha, Beta, and Stable stability levels, the `--allow-experimental-plugins` flag, and multi-cluster variants.
+lastUpdated: 2026-10-11
+owner: '@llm-d/router-maintainers'
+tags:
+  - plugin-framework-contracts
+  - lifecycle
+  - configuration-helm-and-compatibility
+  - reference
+  - plugins
+  - stability-levels
+  - multi-cluster
+title: Plugins
+---
 # Plugins
 
 This directory contains the available plugins. For detailed information on individual plugins, please refer to the README.md located within each plugin's respective directory. To understand how they integrate into the incoming request processing lifecycle, see the [Endpoint Picker (EPP) design](https://github.com/llm-d/llm-d/blob/main/docs/architecture/router/epp.md) document.

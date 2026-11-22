@@ -1,3 +1,16 @@
+---
+description: Learn how the load-aware-scorer plugin scores endpoints by waiting-queue depth from 0.5 down to 0.0, and how to configure its threshold parameter.
+lastUpdated: 2026-10-22
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - metrics
+  - saturation
+  - plugin-framework-contracts
+title: Load Aware Scorer
+---
 # Load Aware Scorer
 
 **Type:** `load-aware-scorer`

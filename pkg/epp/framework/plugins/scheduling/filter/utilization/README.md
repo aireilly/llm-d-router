@@ -1,3 +1,17 @@
+---
+description: Learn about the utilization-filter plugin, which drops endpoints whose active requests, running requests, queue, or KV cache usage exceed configured caps.
+lastUpdated: 2026-07-28
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - epp
+  - scheduling
+  - saturation
+  - metrics
+  - kv-cache
+  - data-producer
+title: Utilization Filter Plugin
+---
 # Utilization Filter Plugin
 
 **Type:** `utilization-filter`

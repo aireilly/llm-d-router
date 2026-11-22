@@ -1,3 +1,18 @@
+---
+description: Learn about the ThunderAgent plugin, which gates admission per agent session and pins sessions to the pod that holds their KV cache to prevent eviction and repeated prefill.
+lastUpdated: 2026-11-12
+owner: '@llm-d/router-maintainers'
+tags:
+  - epp
+  - flow-control
+  - fairness
+  - saturation
+  - scheduling
+  - kv-cache
+  - agents
+  - reference
+title: ThunderAgent Plugin
+---
 # ThunderAgent Plugin
 
 Session level admission control for agentic workloads, based on ThunderAgent

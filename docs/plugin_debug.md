@@ -1,3 +1,15 @@
+---
+description: Learn about the /debug/plugins/state endpoint, its JSON response format, access controls, and how to implement StateDumper to expose plugin debug state.
+lastUpdated: 2026-11-04
+owner: '@llm-d/router-maintainers'
+tags:
+  - observability
+  - plugin-framework-contracts
+  - security-and-trust-boundaries
+  - reference
+  - debugging
+title: Plugin Debug State
+---
 # Plugin Debug State
 
 The router exposes a plugin state debug endpoint on the metrics/admin server:

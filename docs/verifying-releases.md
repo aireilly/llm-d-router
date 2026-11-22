@@ -1,3 +1,18 @@
+---
+description: Learn how to verify the SLSA provenance attestation and read the SPDX SBOM of llm-d Router container images by digest, using gh or cosign.
+lastUpdated: 2026-09-16
+owner: '@llm-d/router-maintainers'
+tags:
+  - security-and-trust-boundaries
+  - ci
+  - github
+  - reference
+  - supply-chain
+  - sbom
+  - provenance
+  - container-images
+title: Verifying Published Artifacts
+---
 # Verifying Published Artifacts
 
 Container images published by this repository carry a signed SLSA provenance

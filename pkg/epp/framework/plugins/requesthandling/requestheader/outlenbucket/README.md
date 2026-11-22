@@ -1,3 +1,16 @@
+---
+description: Learn about the outlen-bucket plugin, which classifies requests into LONG, SHORT, or UNKNOWN output-length bins and publishes the bin as a request attribute.
+lastUpdated: 2026-11-04
+owner: '@zetxqx'
+tags:
+  - epp
+  - plugin-framework-contracts
+  - attributes
+  - scheduling
+  - flow-control
+  - reference
+title: Output-Length Bucket
+---
 # Output-Length Bucket
 
 **Type:** `outlen-bucket`

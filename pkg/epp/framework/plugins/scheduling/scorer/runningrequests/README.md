@@ -1,3 +1,16 @@
+---
+description: Learn how the running-requests-size-scorer scores endpoints by in-flight request count to spread load, and how to configure it in a scheduling profile.
+lastUpdated: 2026-10-30
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - metrics
+  - plugin-framework-contracts
+  - saturation
+title: Running Requests Size Scorer Plugin
+---
 # Running Requests Size Scorer Plugin
 
 **Type:** `running-requests-size-scorer`

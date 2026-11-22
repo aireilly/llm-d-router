@@ -1,3 +1,15 @@
+---
+description: Learn about the Prometheus metrics for the KV-cache block index and KV-event dedup filter, and how to register and log them.
+lastUpdated: 2026-09-22
+owner: '@vMaroon'
+tags:
+  - metrics
+  - kv-cache
+  - observability
+  - reference
+  - epp
+title: KV-Cache Metrics
+---
 # KV-Cache Metrics
 
 Prometheus collectors for the KV-cache subsystem: block-index admissions,

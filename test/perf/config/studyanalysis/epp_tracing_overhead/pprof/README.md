@@ -1,3 +1,16 @@
+---
+description: Learn how to collect CPU and heap pprof profiles from EPP pods under load and isolate OpenTelemetry tracing overhead in the samples.
+lastUpdated: 2026-10-07
+owner: '@llm-d/router-maintainers'
+tags:
+  - observability
+  - epp
+  - tracing
+  - pprof
+  - performance
+  - profiling
+title: Collecting EPP profiles
+---
 # Collecting EPP profiles
 
 Enable the [`pprof values`](../deployments/tracing/pprof.values.yaml) for the

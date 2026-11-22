@@ -1,3 +1,16 @@
+---
+description: Learn about the local-syncer plugin, which stores cross-replica state in one EPP process for tests and single-replica deployments, and how to register it.
+lastUpdated: 2026-10-12
+owner: '@llm-d/router-maintainers'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - configuration-helm-and-compatibility
+  - cross-replica
+  - datalayer
+  - local-syncer
+title: Local Cross-Replica Syncer
+---
 # Local Cross-Replica Syncer
 
 **Type:** `local-syncer`

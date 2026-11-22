@@ -1,3 +1,16 @@
+---
+description: 'Learn how to deploy the EPP tracing overhead study: trace receiver, simulator or live model pool, and Helm-installed EPP tracing variants.'
+lastUpdated: 2026-10-07
+owner: '@llm-d/router-maintainers'
+tags:
+  - epp
+  - observability
+  - kubernetes
+  - configuration-helm-and-compatibility
+  - tracing
+  - performance
+title: Deployments
+---
 # Deployments
 
 The study used the llm-d optimized-baseline inference-scheduling topology with

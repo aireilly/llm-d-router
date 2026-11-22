@@ -1,3 +1,17 @@
+---
+description: Learn how to configure the k8s-notification-source and endpoint-notification-source data sources and write extractors that react to Kubernetes object and endpoint lifecycle events.
+lastUpdated: 2026-05-18
+owner: '@llm-d/router-maintainers'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - datalayer
+  - notifications
+  - extractors
+  - kubernetes
+  - lifecycle
+title: Notification Data Sources
+---
 # Notification Data Sources
 
 **Type:** `k8s-notification-source`  

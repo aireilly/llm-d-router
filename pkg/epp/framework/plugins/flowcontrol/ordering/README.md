@@ -1,3 +1,16 @@
+---
+description: Learn about flow control ordering policies (FCFS, EDF, SLO deadline) that pick which request in a flow's queue dispatches next, and how to run their conformance tests.
+lastUpdated: 2026-04-23
+owner: '@LukeAVanDrie'
+tags:
+  - flow-control
+  - ordering-policy
+  - plugin-framework-contracts
+  - reference
+  - scheduling
+  - testing
+title: Ordering Policies
+---
 # Ordering Policies
 
 Ordering policies determine which request from a specific flow's queue is selected for dispatch when that flow is picked by a Fairness Policy.

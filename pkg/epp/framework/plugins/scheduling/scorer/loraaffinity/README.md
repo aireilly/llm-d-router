@@ -1,3 +1,16 @@
+---
+description: Learn how the LoRA affinity scorer ranks endpoints by whether a requested LoRA adapter is active, waiting, or has capacity to load, and which metrics it reads.
+lastUpdated: 2026-11-04
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - metrics
+  - models
+  - datalayer
+title: LoRA Affinity Scorer Plugin
+---
 # LoRA Affinity Scorer Plugin
 
 **Type:** `lora-affinity-scorer`

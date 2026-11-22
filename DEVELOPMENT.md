@@ -1,3 +1,17 @@
+---
+description: Learn how to set up Kind and Kubernetes development environments for the llm-d Router, deploy disaggregated inference modes, and run unit, integration, and e2e tests.
+lastUpdated: 2026-11-18
+owner: '@llm-d/router-maintainers'
+tags:
+  - development
+  - testing
+  - kind
+  - kubernetes
+  - disaggregation
+  - observability
+  - debugging
+title: Development
+---
 # Development
 
 Documentation for developing the llm-d Router.

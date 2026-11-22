@@ -1,3 +1,17 @@
+---
+description: Learn about the EPP Flow Controller, which queues, prioritizes, and applies fairness and displacement policies to requests before scheduling under saturation.
+lastUpdated: 2026-11-12
+owner: '@LukeAVanDrie'
+tags:
+  - flow-control
+  - plugin-framework-contracts
+  - reference
+  - lifecycle
+  - queuing
+  - fairness
+  - saturation
+title: Flow Control Module
+---
 # Flow Control Module
 
 ## Introduction

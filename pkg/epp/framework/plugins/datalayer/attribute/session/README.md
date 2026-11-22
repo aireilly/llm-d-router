@@ -1,3 +1,17 @@
+---
+description: Learn about the SessionID request attribute, how session-id-producer extracts it from a header or cookie, and how to read it with ReadSessionID.
+lastUpdated: 2026-05-28
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - session
+  - datalayer
+  - attributes
+  - session-affinity
+  - request-control
+title: Session Attributes
+---
 # Session Attributes
 
 Per-request session identity used by affinity-aware scorers and filters.

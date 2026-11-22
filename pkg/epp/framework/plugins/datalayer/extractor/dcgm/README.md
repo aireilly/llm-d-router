@@ -1,3 +1,18 @@
+---
+description: Learn how the DCGM Extractor turns DCGM Exporter metrics into a per-endpoint GPU utilization attribute and how to configure EPP filters and scorers to use it.
+lastUpdated: 2026-09-22
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - observability
+  - configuration-helm-and-compatibility
+  - dcgm
+  - gpu-utilization
+  - datalayer
+  - extractor
+title: DCGM Extractor
+---
 # DCGM Extractor
 
 **Type:** `dcgm-extractor`

@@ -1,3 +1,16 @@
+---
+description: Learn about the InFlightLoad attribute, which tracks real-time in-flight tokens and requests per endpoint, and the inflight-load-producer plugin that produces it.
+lastUpdated: 2026-05-18
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - datalayer
+  - concurrency
+  - load-tracking
+  - endpoint-picker
+title: Concurrency Attributes
+---
 # Concurrency Attributes
 
 This package defines the data structures for tracking real-time concurrency and load on endpoints.

@@ -1,3 +1,17 @@
+---
+description: Learn how the round-robin fairness policy cycles through active flows in a priority band to prevent noisy neighbors, and how to configure it in flow control.
+lastUpdated: 2026-11-10
+owner: '@LukeAVanDrie'
+tags:
+  - flow-control
+  - fairness
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+  - reference
+  - round-robin
+  - priority-band
+title: Round Robin Fairness Policy
+---
 # Round Robin Fairness Policy
 
 **Type:** `round-robin-fairness-policy`

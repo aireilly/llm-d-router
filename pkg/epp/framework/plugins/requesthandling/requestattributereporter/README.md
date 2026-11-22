@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the request-attribute-reporter EPP plugin to compute values from response usage data with CEL and return them to Envoy as dynamic metadata.
+lastUpdated: 2026-11-02
+owner: '@zetxqx'
+tags:
+  - reference
+  - epp
+  - configuration-helm-and-compatibility
+  - attributes
+  - observability
+  - metrics
+title: Request Attribute Reporter Plugin
+---
 # Request Attribute Reporter Plugin
 
 **Type:** `request-attribute-reporter`

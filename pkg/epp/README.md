@@ -1,3 +1,16 @@
+---
+description: Learn about the EndPoint Picker (EPP) reference implementation, including endpoint selection, traffic splitting, model name rewriting, and observability for an InferencePool.
+lastUpdated: 2026-08-21
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - observability
+  - epp
+  - endpoint-selection
+  - inference-pool
+  - traffic-splitting
+title: The EndPoint Picker (EPP)
+---
 # The EndPoint Picker (EPP)
 This package provides the reference implementation for the Endpoint Picker (EPP). As demonstrated in the diagram below, it implements the [extension protocol](https://github.com/kubernetes-sigs/gateway-api-inference-extension/blob/main/docs/proposals/004-endpoint-picker-protocol/README.md), enabling a proxy or gateway to request endpoint hints from an extension, and interacts with the model servers through the defined [model server protocol](https://github.com/kubernetes-sigs/gateway-api-inference-extension/blob/main/docs/proposals/003-model-server-protocol/README.md).
 

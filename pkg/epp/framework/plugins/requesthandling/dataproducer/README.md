@@ -1,3 +1,16 @@
+---
+description: Learn how request-control data producer plugins compute and write endpoint and request attributes for scorers, filters, and admission controllers, and how Produces() and Consumes() are validated.
+lastUpdated: 2026-11-02
+owner: '@zetxqx'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - lifecycle
+  - dataproducer
+  - data-layer
+  - request-control
+title: Request-Control Data Producer Plugins
+---
 # Request-Control Data Producer Plugins
 
 Data producer plugins run in the `PrepareRequestData` phase of the request-control pipeline, before filters and scorers execute. Each plugin implements `requesthandling.DataProducer` and writes typed attributes onto endpoints or the `InferenceRequest` itself. Downstream plugins (scorers, filters, admission controllers) read these attributes without re-doing the computation.

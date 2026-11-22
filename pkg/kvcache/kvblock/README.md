@@ -1,3 +1,17 @@
+---
+description: 'Learn about the KV-block index: how token sequences become chained block keys, how pods holding each block are tracked, and the in-memory, cost-aware, and Redis backends.'
+lastUpdated: 2026-11-11
+owner: '@vMaroon'
+tags:
+  - kv-cache
+  - prefix-cache
+  - reference
+  - epp
+  - multimodal
+  - observability
+  - data-layer
+title: KV-Block Index
+---
 # KV-Block Index
 
 The block-level store that maps KV-block keys to the pods holding them, plus the

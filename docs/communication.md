@@ -1,3 +1,13 @@
+---
+description: Learn about the request and response formats for each coordinator pipeline stage, from media URL replacement through encode, prefill, and decode.
+lastUpdated: 2026-11-08
+owner: '@llm-d/router-maintainers'
+tags:
+  - coordinator
+  - reference
+  - configuration-helm-and-compatibility
+title: Pipeline Communication Protocol
+---
 # Pipeline Communication Protocol
 
 This document describes the request and response formats for each stage of the coordinator pipeline. The pipeline implements the vLLM disaggregated serving protocol for multimodal inference.

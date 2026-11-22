@@ -1,3 +1,17 @@
+---
+description: Learn how to configure the kv-events-source plugin, bind consumers to its per-endpoint KV event subscriptions, and handle replay, snapshot recovery, and reset semantics.
+lastUpdated: 2026-11-19
+owner: '@llm-d/router-maintainers'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - configuration-helm-and-compatibility
+  - lifecycle
+  - kv-events
+  - datalayer
+  - error-handling-and-boundaries
+title: KV events source
+---
 # KV events source
 
 `kv-events-source` opens one subscription per discovered engine endpoint and hands

@@ -1,3 +1,15 @@
+---
+description: Learn about the weighted fair share fairness policy, which divides a contended priority band between tenants by declared weight and token-based cost.
+lastUpdated: 2026-11-17
+owner: '@LukeAVanDrie'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - flow-control
+  - fairness
+  - configuration-helm-and-compatibility
+title: Weighted Fair Share Fairness Policy
+---
 # Weighted Fair Share Fairness Policy
 
 **Type:** `weighted-fair-share-fairness-policy`

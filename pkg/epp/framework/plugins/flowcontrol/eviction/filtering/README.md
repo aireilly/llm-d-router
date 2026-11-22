@@ -1,3 +1,16 @@
+---
+description: Learn about the eviction-sheddable-filter plugin, which limits flow control eviction to sheddable requests with negative priority.
+lastUpdated: 2026-05-03
+owner: '@LukeAVanDrie'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - flow-control
+  - eviction
+  - filtering
+  - priority
+title: Eviction Sheddable Filter Plugin
+---
 # Eviction Sheddable Filter Plugin
 
 **Type:** `eviction-sheddable-filter`

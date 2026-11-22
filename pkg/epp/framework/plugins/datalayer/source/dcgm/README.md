@@ -1,3 +1,17 @@
+---
+description: Learn how to configure the DCGM data source to scrape NVIDIA GPU metrics from DCGM Exporter sidecars or DaemonSets for EPP extractors.
+lastUpdated: 2026-09-22
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - observability
+  - datalayer
+  - dcgm
+  - gpu-metrics
+  - configuration-helm-and-compatibility
+title: DCGM Data Source
+---
 # DCGM Data Source
 
 **Type:** `dcgm-data-source`

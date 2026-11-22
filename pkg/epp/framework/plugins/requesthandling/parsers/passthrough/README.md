@@ -1,3 +1,15 @@
+---
+description: Learn about the passthrough-parser plugin, which forwards requests unparsed, and why prompt-dependent scorers such as prefix-cache-scorer do not work with it.
+lastUpdated: 2026-06-14
+owner: '@zetxqx'
+tags:
+  - reference
+  - epp
+  - plugin-framework-contracts
+  - scheduling
+  - prefix-cache
+title: Passthrough Parser Plugin
+---
 # Passthrough Parser Plugin
 
 **Type:** `passthrough-parser`

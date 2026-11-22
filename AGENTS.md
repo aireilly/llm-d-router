@@ -110,3 +110,9 @@ if v := logger.V(logging.DEBUG); v.Enabled() {
 - Commit subject: imperative, ~72 characters. Body short and focused on the WHY; long narrative belongs in the PR description.
 - Do not add machine-generated co-author trailers. Sign-off is the only required trailer.
 - Do not bypass hooks (`--no-verify`) or signing checks.
+
+<!-- BEGIN nasc index -->
+# Documentation index
+
+The documentation index is in [docs/INDEX.md](docs/INDEX.md). It lists every doc with one line on what the doc covers. Read it when you need to find documentation, then open only the docs you need.
+<!-- END nasc index -->

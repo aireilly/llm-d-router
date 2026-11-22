@@ -1,3 +1,18 @@
+---
+description: Learn how to configure the priority holdback usage limit policy to set per-priority admission ceilings that gate lower-priority traffic first as pool saturation rises.
+lastUpdated: 2026-10-14
+owner: '@LukeAVanDrie'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+  - flow-control
+  - usage-limits
+  - priority
+  - admission-control
+  - saturation
+title: Priority Holdback Policy Plugin
+---
 # Priority Holdback Policy Plugin
 
 **Type:** `priority-holdback-policy`

@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the precise prefix cache producer, which indexes KV-block events and publishes per-endpoint prefix cache match data for the prefix cache scorer.
+lastUpdated: 2026-11-19
+owner: '@bongwoobak'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+  - prefix-cache
+  - kv-cache
+  - data-producer
+title: Precise Prefix Cache Producer
+---
 # Precise Prefix Cache Producer
 
 **Type:** `precise-prefix-cache-producer`

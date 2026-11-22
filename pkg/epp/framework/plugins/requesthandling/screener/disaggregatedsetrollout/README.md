@@ -1,3 +1,17 @@
+---
+description: Learn about the DisaggregatedSet rollout screener plugin, which keeps prefill and decode Pods from different revisions from serving the same request during a rollout.
+lastUpdated: 2026-11-18
+owner: '@zetxqx'
+tags:
+  - reference
+  - epp
+  - disaggregation
+  - scheduling
+  - kv-cache
+  - kubernetes
+  - lifecycle
+title: DisaggregatedSet Rollout Screener
+---
 # DisaggregatedSet Rollout Screener
 
 **Type:** `disaggregatedset-rollout-screener`

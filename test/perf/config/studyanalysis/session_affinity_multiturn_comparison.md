@@ -1,3 +1,18 @@
+---
+description: Learn how session-affinity-filter, random passthrough, and optimized baseline EPP routing compare on latency and resource use in a 10 QPS multi-turn chat benchmark.
+lastUpdated: 2026-09-09
+owner: '@llm-d/router-maintainers'
+tags:
+  - epp
+  - scheduling
+  - kv-cache
+  - prefix-cache
+  - metrics
+  - session-affinity
+  - performance
+  - benchmark
+title: Multi-Turn Chat & Session Affinity Performance Evaluation Report
+---
 # Multi-Turn Chat & Session Affinity Performance Evaluation Report
 
 This report evaluates the performance, latency, and resource utilization of the **Endpoint Picker (EPP)** router when handling multi-turn conversational chat workloads. It compares three distinct routing architectures—**`session-affinity-filter`**, **`random-passthrough-multiturn`**, and **`optimized-baseline-multiturn`**—across the exact same 10 QPS multi-turn chat benchmark.

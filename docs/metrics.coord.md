@@ -1,3 +1,15 @@
+---
+description: Learn about the Prometheus metrics the coordinator exposes, how they are named and scraped, and how they differ from Endpoint Picker (EPP) metrics.
+lastUpdated: 2026-11-08
+owner: '@llm-d/router-maintainers'
+tags:
+  - coordinator
+  - observability
+  - reference
+  - metrics
+  - prometheus
+title: Coordinator Metrics
+---
 # Coordinator Metrics
 
 The coordinator exposes Prometheus metrics describing the requests it accepts and the pipeline it

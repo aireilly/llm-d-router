@@ -1,3 +1,16 @@
+---
+description: Learn how the slo-headroom-tier-filter splits endpoints into SLO-meeting and SLO-violating tiers by predicted latency headroom, with epsilon exploration and config.
+lastUpdated: 2026-05-03
+owner: '@kaushikmitr'
+tags:
+  - reference
+  - scheduling
+  - slo
+  - epp
+  - plugin-framework-contracts
+  - attributes
+title: SLO Headroom Tier Filter (`slo-headroom-tier-filter`)
+---
 # SLO Headroom Tier Filter (`slo-headroom-tier-filter`)
 
 **Type:** `slo-headroom-tier-filter`

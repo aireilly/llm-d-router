@@ -1,3 +1,17 @@
+---
+description: Learn how the latency-scorer plugin ranks endpoints by predicted TTFT and TPOT headroom against SLOs, including idle preference, deficit bucketing, and blending.
+lastUpdated: 2026-10-14
+owner: '@kaushikmitr'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - slo
+  - prefix-cache
+  - attributes
+  - plugin-framework-contracts
+title: Latency Scorer Plugin (`latency-scorer`)
+---
 # Latency Scorer Plugin (`latency-scorer`)
 
 **Type:** `latency-scorer`

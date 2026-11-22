@@ -1,3 +1,16 @@
+---
+description: Learn about the area/* labels, which paths each label maps to, how to apply them to issues and PRs, and which owners and Slack channels cover each area.
+lastUpdated: 2026-11-04
+owner: '@llm-d/router-maintainers'
+tags:
+  - taxonomy
+  - github
+  - maintainers
+  - reference
+  - scope-and-process
+  - labels
+title: Area Taxonomy
+---
 # Area Taxonomy
 
 `area/*` labels route issues and pull requests to the right reviewers by component. Each area maps to one or more directories, so it can be applied either manually (via an `/area` directive on a PR or issue body) or automatically from the paths a change touches.

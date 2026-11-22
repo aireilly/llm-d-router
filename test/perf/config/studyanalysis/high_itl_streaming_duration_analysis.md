@@ -1,3 +1,18 @@
+---
+description: Learn how raising model server inter-token latency 20x (0.1 ms to 2.0 ms) affects EPP and Envoy CPU, memory, and scheduling latency at 10 to 500 QPS.
+lastUpdated: 2026-07-24
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - epp
+  - scheduling
+  - metrics
+  - observability
+  - performance
+  - envoy
+  - saturation
+title: 'Comparative Analysis: Normal ITL (0.1ms) vs. High ITL (2.0ms) across QPS Rates'
+---
 # Comparative Analysis: Normal ITL (0.1ms) vs. High ITL (2.0ms) across QPS Rates
 
 This report evaluates the impact of increasing the model server inter-token generation latency (**ITL**) by **20x (from `0.1ms` up to `2.0ms`)**, which expands total request streaming duration from ~15 ms up to ~205 ms (for `output_len = 100`), across request rates of **10, 100, 200, and 500 QPS** using 10 simulator replicas.

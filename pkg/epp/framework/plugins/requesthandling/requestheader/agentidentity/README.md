@@ -1,3 +1,17 @@
+---
+description: Learn how the agent-identity plugin resolves a session ID from agent HTTP headers so the Director can put every turn of an agent session in one fairness queue.
+lastUpdated: 2026-11-02
+owner: '@zetxqx'
+tags:
+  - reference
+  - epp
+  - plugin-framework-contracts
+  - flow-control
+  - fairness
+  - attributes
+  - agents
+title: Agent Identity
+---
 # Agent Identity
 
 **Type:** `agent-identity`

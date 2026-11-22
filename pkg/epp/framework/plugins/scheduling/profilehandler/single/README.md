@@ -1,3 +1,14 @@
+---
+description: Learn about the SingleProfileHandler plugin, which runs the one configured scheduling profile as the primary profile for every request and is enabled by default.
+lastUpdated: 2026-05-03
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - plugin-framework-contracts
+title: SingleProfileHandler
+---
 # SingleProfileHandler
 
 **Type:** `single-profile-handler`

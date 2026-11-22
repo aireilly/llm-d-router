@@ -1,3 +1,16 @@
+---
+description: Learn how the burst-prefix-cache-producer plugin co-locates bursts of prompt-sharing requests onto shared replicas so a common prefix is prefilled once on a cold cache.
+lastUpdated: 2026-11-02
+owner: '@zetxqx'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - prefix-cache
+  - data-producer
+  - scheduling
+  - configuration-helm-and-compatibility
+title: Burst Prefix Cache Producer
+---
 # Burst Prefix Cache Producer
 
 **Type:** `burst-prefix-cache-producer`

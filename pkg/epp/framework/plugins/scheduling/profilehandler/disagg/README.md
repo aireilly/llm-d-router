@@ -1,3 +1,18 @@
+---
+description: Learn how to configure the disaggregated profile handler and decider plugins that choose between EPD, P/D, E/P/D, and E/PD scheduling stages per request.
+lastUpdated: 2026-09-13
+owner: '@llm-d/router-maintainers'
+tags:
+  - disaggregation
+  - scheduling
+  - epp
+  - reference
+  - plugin-framework-contracts
+  - prefix-cache
+  - multimodal
+  - configuration-helm-and-compatibility
+title: Disaggregated Profile Handler, PreRequest, and Decider Plugins
+---
 # Disaggregated Profile Handler, PreRequest, and Decider Plugins
 
 Plugins for disaggregated inference scheduling: a profile handler that selects the active stages: EPD (no disaggregation), P/D (Prefill/Decode), E/P/D (Encode/Prefill/Decode), or E/PD (Encode/Prefill-Decode), legacy headers handlers (deprecated) kept for backward compatibility, and decider plugins that control whether each disaggregation stage runs per request.

@@ -1,3 +1,16 @@
+---
+description: Learn about the models data extractor, which converts models-data-source responses into ModelDataCollection endpoint attributes for model discovery.
+lastUpdated: 2026-10-13
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - datalayer
+  - extractor
+  - models
+  - endpoint-attributes
+title: Model Data Extractor
+---
 # Model Data Extractor
 
 **Type:** `models-data-extractor`

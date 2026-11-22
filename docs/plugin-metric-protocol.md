@@ -1,3 +1,16 @@
+---
+description: Learn about the Prometheus metrics model servers must expose for EPP built-in plugins, with per-plugin requirements and metric names for vLLM, SGLang, and Triton.
+lastUpdated: 2026-11-02
+owner: '@llm-d/router-maintainers'
+tags:
+  - plugin-framework-contracts
+  - observability
+  - reference
+  - metrics
+  - model-servers
+  - prometheus
+title: Plugin Metric Protocol
+---
 # Plugin Metric Protocol
 
 This document describes the contract the EPP expects from model servers

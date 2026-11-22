@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the endpoint-header-stamper PreRequest plugin to copy selected endpoint attributes onto request headers, including prepending to :path.
+lastUpdated: 2026-11-02
+owner: '@zetxqx'
+tags:
+  - plugin-framework-contracts
+  - reference
+  - security-and-trust-boundaries
+  - headers
+  - routing
+  - endpoint-attributes
+title: endpoint-header-stamper
+---
 # endpoint-header-stamper
 
 A PreRequest plugin that carries attributes of the scheduling-selected endpoint onto outgoing request headers. It is the general mechanism for attaching a per-endpoint routing hint that a downstream gateway matches on — a path prefix, a model or lane name, a tenant tag.

@@ -1,3 +1,15 @@
+---
+description: 'Learn about llm-d-router project leadership: the chair, maintainers, release managers, emeritus members, and where per-component code ownership is defined.'
+lastUpdated: 2026-08-19
+owner: '@llm-d/router-maintainers'
+tags:
+  - maintainers
+  - github
+  - scope-and-process
+  - project-direction
+  - reference
+title: Leadership
+---
 # Leadership
 
 Project leadership for llm-d-router.

@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the header-profile-handler plugin to run one EPP scheduling profile per request, chosen by a request header, with default and error behavior.
+lastUpdated: 2026-11-05
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - disaggregation
+  - plugin-framework-contracts
+  - error-handling-and-boundaries
+title: HeaderProfileHandler
+---
 # HeaderProfileHandler
 
 **Type:** `header-profile-handler`

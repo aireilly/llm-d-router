@@ -1,3 +1,16 @@
+---
+description: Learn how to find, claim, and contribute to llm-d-router issues, and where to find repository-specific build, review, and agent guidance.
+lastUpdated: 2026-11-05
+owner: '@llm-d/router-maintainers'
+tags:
+  - scope-and-process
+  - github
+  - lifecycle
+  - maintainers
+  - taxonomy
+  - agents-md
+title: Contributing to llm-d-router
+---
 # Contributing to llm-d-router
 
 Please access the

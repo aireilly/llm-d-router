@@ -1,3 +1,17 @@
+---
+description: Learn about EPP router CPU, memory, and latency under stress, comparing baseline, passthrough parser, approximate, and precise prefix routing with pprof analysis.
+lastUpdated: 2026-07-24
+owner: '@llm-d/router-maintainers'
+tags:
+  - epp
+  - prefix-cache
+  - kv-cache
+  - observability
+  - metrics
+  - scheduling
+  - reference
+title: EPP Control Plane Performance & Profiling Evaluation Report
+---
 # EPP Control Plane Performance & Profiling Evaluation Report
 
 ## Executive Summary

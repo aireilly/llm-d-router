@@ -1,3 +1,17 @@
+---
+description: Learn how to configure the header label affinity scorer to softly prefer endpoints whose label matches a request header and stamp the chosen label on responses.
+lastUpdated: 2026-11-02
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - disaggregation
+  - coordinator
+  - configuration-helm-and-compatibility
+  - kubernetes
+title: Header Label Affinity Scorer
+---
 # Header Label Affinity Scorer
 
 **Type:** `header-label-affinity-scorer`

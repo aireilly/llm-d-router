@@ -1,3 +1,17 @@
+---
+description: Learn how the LoRA residency scorer models GPU and CPU adapter residency on vLLM pods and scores endpoints by estimated adapter load cost.
+lastUpdated: 2026-10-25
+owner: '@llm-d/router-maintainers'
+tags:
+  - scheduling
+  - epp
+  - reference
+  - plugin-framework-contracts
+  - lora
+  - metrics
+  - lifecycle
+title: LoRA Residency Scorer Plugin
+---
 # LoRA Residency Scorer Plugin
 
 **Type:** `lora-residency-scorer`

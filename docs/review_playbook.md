@@ -1,3 +1,18 @@
+---
+description: Learn about the compiled human-readable review rules for llm-d Router, covering wire contracts, runtime hazards, governance, and architectural boundaries with rationale and exceptions.
+lastUpdated: 2026-11-06
+owner: '@llm-d/router-maintainers'
+tags:
+  - playbook
+  - reference
+  - maintainers
+  - scope-and-process
+  - configuration-helm-and-compatibility
+  - security-and-trust-boundaries
+  - plugin-framework-contracts
+  - open-question
+title: Review Playbook
+---
 # Review Playbook
 
 <!-- Generated from docs/review/ by hack/render_playbook.py. Do not edit directly; regenerate with: python3 hack/render_playbook.py -->

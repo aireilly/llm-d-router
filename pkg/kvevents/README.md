@@ -1,3 +1,16 @@
+---
+description: Learn how the KV-events subsystem subscribes to engine ZMQ streams, decodes block events, and applies them to the KV-block index for cache-aware scoring.
+lastUpdated: 2026-11-06
+owner: '@vMaroon'
+tags:
+  - kv-cache
+  - prefix-cache
+  - datalayer
+  - scheduling
+  - metrics
+  - reference
+title: KV-Events
+---
 # KV-Events
 
 The write side of the KV-cache subsystem: it subscribes to the KV-cache events

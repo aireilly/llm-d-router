@@ -1,3 +1,14 @@
+---
+description: Learn about the OpenTelemetry JSON log record fields that the EPP, coordinator, and routing sidecar write to stdout, and how a collector maps them to OTLP.
+lastUpdated: 2026-11-18
+owner: '@llm-d/router-maintainers'
+tags:
+  - observability
+  - logging
+  - reference
+  - coordinator
+title: OpenTelemetry JSON stdout logs
+---
 # OpenTelemetry JSON stdout logs
 
 The EPP, coordinator, and routing sidecar emit one JSON object per line to

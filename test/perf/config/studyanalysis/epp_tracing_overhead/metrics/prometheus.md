@@ -1,3 +1,15 @@
+---
+description: Learn the PromQL queries for EPP CPU, memory, throttling, latency quantiles, request rate, and trace sampling ratio in the EPP tracing overhead study.
+lastUpdated: 2026-10-07
+owner: '@llm-d/router-maintainers'
+tags:
+  - metrics
+  - observability
+  - epp
+  - reference
+  - kubernetes
+title: Prometheus measurements
+---
 # Prometheus measurements
 
 We query at a 10-second step over the GuideLLM measurement window and replace

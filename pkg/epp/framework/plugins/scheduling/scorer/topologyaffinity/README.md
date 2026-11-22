@@ -1,3 +1,17 @@
+---
+description: Learn how the topology affinity scorer grades prefill or decode candidates by host, rack, zone, or region proximity to a peer endpoint in single-EPP and coordinator setups.
+lastUpdated: 2026-10-15
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - disaggregation
+  - coordinator
+  - kv-cache
+  - kubernetes
+title: Topology Affinity Scorer Plugin
+---
 # Topology Affinity Scorer Plugin
 
 **Type:** `topology-affinity-scorer`

@@ -1,3 +1,16 @@
+---
+description: Learn about the active request scorer, which scores pods by in-flight request count, and how to configure its idleThreshold and maxBusyScore parameters.
+lastUpdated: 2026-05-07
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - scheduling
+  - epp
+  - plugin-framework-contracts
+  - saturation
+  - data-producer
+title: Active Request Scorer
+---
 # Active Request Scorer
 
 **Type:** `active-request-scorer`

@@ -1,3 +1,16 @@
+---
+description: Learn about the metrics the router EPP, model server pods, and P/D sidecar expose, including metric names, prefixes, endpoints, ports, and deprecated series.
+lastUpdated: 2026-11-18
+owner: '@llm-d/router-maintainers'
+tags:
+  - observability
+  - reference
+  - metrics
+  - epp
+  - disaggregation
+  - monitoring
+title: Metrics
+---
 # Metrics
 
 The router deployment has three metric sources:

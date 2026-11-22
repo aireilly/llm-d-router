@@ -1,3 +1,18 @@
+---
+description: Learn how to deploy the llm-d Router EPP and InferencePool with Helm in Gateway or Standalone mode, including Envoy or Agentgateway proxy options.
+lastUpdated: 2026-11-19
+owner: '@llm-d/router-maintainers'
+tags:
+  - configuration-helm-and-compatibility
+  - helm
+  - deployment
+  - gateway-api
+  - inferencepool
+  - epp
+  - standalone
+  - reference
+title: llm-d Router Helm Charts
+---
 # llm-d Router Helm Charts
 
 This directory contains Helm charts for deploying the **llm-d Router** components: the **Endpoint Picker (EPP)** and the **InferencePool** resource.

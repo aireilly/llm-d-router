@@ -1,3 +1,15 @@
+---
+description: Learn about the request and response parser plugins, including OpenAI, Anthropic, and vLLM gRPC parsers, their defaults, and known limitations.
+lastUpdated: 2026-11-06
+owner: '@zetxqx'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - parsers
+  - request-handling
+  - configuration-helm-and-compatibility
+title: Parsers
+---
 # Parsers
 
 This directory contains parser plugins used to parse and understand the payloads of requests and responses. This understanding is key for empowering features like prefix-cache aware request scheduling and response usage tracking.

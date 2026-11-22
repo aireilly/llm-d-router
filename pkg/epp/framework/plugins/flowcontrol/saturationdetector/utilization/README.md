@@ -1,3 +1,16 @@
+---
+description: Learn how the utilization detector scores pool saturation from queue depth and KV cache usage, handles stale metrics, and filters overloaded endpoints in flow control.
+lastUpdated: 2026-10-01
+owner: '@LukeAVanDrie'
+tags:
+  - flow-control
+  - saturation-detection
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+  - observability
+  - reference
+title: Utilization Detector Plugin
+---
 # Utilization Detector Plugin
 
 **Type:** `utilization-detector`

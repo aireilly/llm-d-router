@@ -1,3 +1,16 @@
+---
+description: Learn how to run the router end-to-end tests with Ginkgo on a Kind cluster, including prerequisites, parallel test groups, and the standalone chart topologies under test.
+lastUpdated: 2026-11-06
+owner: '@llm-d/router-maintainers'
+tags:
+  - testing
+  - e2e
+  - kubernetes
+  - configuration-helm-and-compatibility
+  - epp
+  - presubmit
+title: End-to-End Tests
+---
 # End-to-End Tests
 
 This document provides instructions on how to run the end-to-end tests.

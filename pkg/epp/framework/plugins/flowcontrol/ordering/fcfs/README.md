@@ -1,3 +1,16 @@
+---
+description: Learn about the FCFS ordering policy for flow control, how it orders requests by enqueue time, and how queue pairing affects strict versus approximate ordering.
+lastUpdated: 2026-05-03
+owner: '@LukeAVanDrie'
+tags:
+  - flow-control
+  - ordering-policy
+  - fcfs
+  - plugin-framework-contracts
+  - reference
+  - queueing
+title: First-Come, First-Served (FCFS) Ordering Policy
+---
 # First-Come, First-Served (FCFS) Ordering Policy
 
 **Type:** `fcfs-ordering-policy`

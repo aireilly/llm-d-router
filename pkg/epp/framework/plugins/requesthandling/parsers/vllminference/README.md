@@ -1,3 +1,18 @@
+---
+description: 'Learn about the vLLM gRPC request parser in the EPP: which Generate RPCs and protocols it claims, request validation rules, cache-scoring fields, and LoRA model rewrites.'
+lastUpdated: 2026-11-06
+owner: '@zetxqx'
+tags:
+  - reference
+  - epp
+  - plugin-framework-contracts
+  - prefix-cache
+  - kv-cache
+  - multimodal
+  - models
+  - disaggregation
+title: vLLM Inference gRPC Parser
+---
 # vLLM Inference gRPC Parser
 
 `vllminference-parser` parses requests and responses for the upstream vLLM gRPC service (`vllm.Inference`).

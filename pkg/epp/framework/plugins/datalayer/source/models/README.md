@@ -1,3 +1,16 @@
+---
+description: Learn how to configure the models-data-source plugin to poll inference server pods for /v1/models data and pass it to a paired extractor.
+lastUpdated: 2026-11-12
+owner: '@llm-d/router-maintainers'
+tags:
+  - reference
+  - plugin-framework-contracts
+  - configuration-helm-and-compatibility
+  - datalayer
+  - models
+  - security-and-trust-boundaries
+title: Models Data Source
+---
 # Models Data Source
 
 **Type:** `models-data-source`

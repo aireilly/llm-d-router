@@ -1,3 +1,14 @@
+---
+description: Learn about how output token length from 100 to 10,000 tokens affects EPP CPU and memory, and how much CPU the passthrough parser saves at 10 QPS.
+lastUpdated: 2026-07-24
+owner: '@llm-d/router-maintainers'
+tags:
+  - epp
+  - observability
+  - metrics
+  - reference
+title: 'Comparative Analysis: Impact of Output Token Length on EPP CPU and Memory Usage'
+---
 # Comparative Analysis: Impact of Output Token Length on EPP CPU and Memory Usage
 
 This report evaluates the scaling behavior and resource consumption of `llm-d-router` across four discrete output token lengths (**100, 1,000, 5,000, and 10,000 tokens**) at a steady **10 QPS** request rate (`input_tokens_size = 200`) across 10 simulator replicas, comparing two configurations:
